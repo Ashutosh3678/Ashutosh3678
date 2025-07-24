@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a passionate Computer Science student with a strong in
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/Ashutosh3678)
 
 
 
