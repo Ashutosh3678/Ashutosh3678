@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -32,7 +32,7 @@ const ashutosh = {
         tools: ["Git", "Postman", "Figma"]
     },
     currentFocus: "Data Structures & Algorithms",
-    funFact: "I debug with console.log() more than I'd like to admit 😅"
+    funFact: "I debug with console.log() more than I'd like to admit "
 };
 ```
 
@@ -70,15 +70,18 @@ const ashutosh = {
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashutosh3678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh3678&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh3678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh3678&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh3678&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh3678&theme=tokyonight" alt="Contribution Graph" />
+</div>
 
 ---
 
