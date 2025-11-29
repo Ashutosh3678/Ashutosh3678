@@ -166,16 +166,6 @@ const ashutosh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=ashutosh3678&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 💻 Competitive Programming Profiles
 
 <div align="center">
