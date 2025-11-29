@@ -82,7 +82,7 @@ const ashutosh = {
   </tr>
   <tr>
     <td>💼</td>
-    <td><b>Portfolio:</b> <a href="https://ashutosh3678.github.io/Portfolio/">ashutosh3678.github.io/Portfolio</a></td>
+    <td><b>Portfolio:</b> <a href="https://ashutoshsinghportfolio.vercel.app/">ashutosh3678.github.io/Portfolio</a></td>
   </tr>
   <tr>
     <td>💬</td>
@@ -195,7 +195,7 @@ const ashutosh = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ãshutosh-siñgh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ashutosh3678.github.io/Portfolio/)
+[![Portfolio](https://ashutoshsinghportfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshsingh2081@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashutosh3678)
 
