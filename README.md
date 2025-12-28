@@ -100,6 +100,18 @@ const ashutosh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🧠 Most Used Languages
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+    alt="Most Used Languages" 
+  />
+</div>
+
+> Language statistics are based on public repository code size, not proficiency.
+
+
 ### 🛠️ Languages & Tools
 
 <div align="center">
@@ -193,16 +205,6 @@ const ashutosh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 Contribution Graph
-
-<div align="center">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh3678&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh3678)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 💡 Random Dev Quote
 
 <div align="center">
@@ -213,13 +215,6 @@ const ashutosh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  
-![snake gif](https://github.com/ashutosh3678/ashutosh3678/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
