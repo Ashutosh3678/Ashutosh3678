@@ -100,16 +100,6 @@ const ashutosh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧠 Most Used Languages
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&langs_count=8&hide_border=true&theme=radical" 
-    alt="Most Used Languages" 
-  />
-</div>
-
-> Language statistics are based on public repository code size, not proficiency.
 
 
 ### 🛠️ Languages & Tools
@@ -191,6 +181,18 @@ const ashutosh = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧠 Most Used Languages
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&langs_count=8&theme=radical"
+    alt="Most Used Languages"
+  />
+</div>
+
+> Language statistics are based on public repository code size, not proficiency.
+
 
 ### 🌐 Connect With Me
 
