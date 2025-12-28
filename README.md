@@ -76,8 +76,10 @@
 <div align="center">
   
 <a href="https://github.com/ashutosh3678">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutosh3678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh3678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/ashutosh3678">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
 </a>
 
 </div>
