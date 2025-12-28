@@ -22,48 +22,16 @@
 
 <br/>
 
-## 👨‍💻 About Me
-
-```typescript
-const ashutosh = {
-    name: "Ashutosh Singh",
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    education: "B.Tech in Computer Science Engineering",
-    
-    currentFocus: {
-        learning: ["Next.js", "Docker", "System Design"],
-        building: "Project Management Portal",
-        improving: "Data Structures & Algorithms"
-    },
-    
-    techStack: {
-        languages: ["JavaScript", "C++", "Python", "TypeScript"],
-        frontend: ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "REST APIs"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "VS Code", "Postman", "Docker"]
-    },
-    
-    interests: ["Competitive Programming", "Web Development", "Problem Solving"],
-    funFact: "I debug with console.log() and I'm not ashamed! ☕"
-};
-```
-
-<br/>
-
 <div align="center">
 
-### 🚀 What I'm Up To
+## 👨‍💻 About Me
+
+🎓 B.Tech in Computer Science Engineering | 🇮🇳 India  
+💻 Full Stack Developer | 🧩 Competitive Programmer  
+🔭 Building **Project Portal** - Project Management System  
+🌱 Learning **Next.js**, **Docker** & **System Design**
 
 </div>
-
-- 🔭 Currently building **Project Portal** - A comprehensive project management system
-- 🌱 Learning **Advanced DSA**, **System Design**, and **Next.js**
-- 💡 Working on improving my **problem-solving skills** and **coding efficiency**
-- 👯 Open to collaborate on **Open Source Projects** and **Web Development**
-- 💬 Ask me about **React.js**, **Node.js**, **DSA**, or **Competitive Programming**
-- ⚡ Fun fact: I can solve coding problems faster than deciding what to eat! 🍕
 
 <br/>
 
@@ -76,26 +44,27 @@ const ashutosh = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Databases
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -105,19 +74,22 @@ const ashutosh = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutosh3678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh3678&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+<a href="https://github.com/ashutosh3678">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh3678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh3678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh3678&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh3678&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh3678&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh3678&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -135,6 +107,14 @@ const ashutosh = {
 
 <br/>
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh3678&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -148,27 +128,16 @@ const ashutosh = {
 
 <br/>
 
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh3678&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Thanks for visiting! Feel free to explore my repositories and connect with me.** ⭐
+**Thanks for visiting!** ⭐  
+*Feel free to explore my repositories and connect with me.*
 
 </div>
 
