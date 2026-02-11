@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/ashutosh3678?label=Stars&style=flat-square&color=10B981&logo=github" alt="Stars" />
   </a>
   <a href="https://github.com/ashutosh3678">
-    <img src="https://komarev.com/ghpvc/?username=ashutosh3678&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ashutosh678&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
   </a>
 
 </div>
@@ -121,10 +121,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-singh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashutosh3678)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutosh-singh.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A3shutosh-si%C3%B1gh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutosh.works)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshsingh2081@gmail.com)
 
 </div>
 
