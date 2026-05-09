@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh3678&label=Profile%20views&color=b40e66&style=plastic" alt="ashutosh3678" /> </p> <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 I’m currently working at OneInfo.ai<br>I’m interested in DevOps<br>View my portfolio at https://www.ashutosh.works/<br>Ask me about MERN, Cloud Services<br>Fun fact I think I know coding
 
 
